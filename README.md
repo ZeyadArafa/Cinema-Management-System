@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive Movie Management System designed to handle various aspects of a movie theater, including movie and genre management, staff and customer management, room and concession management, and payment processing. The system is built to provide an efficient and user-friendly interface for managing all these components seamlessly.
+Movie Management System designed to handle various aspects of a movie theater, including movie and genre management, staff and customer management, room and concession management, and payment processing. The system is built to provide an efficient and user-friendly interface for managing all these components seamlessly.
 
 ## Features
 
